@@ -38,3 +38,5 @@ function anagrams_2(stringA, stringB) {
   }
   return true;
 }
+
+module.exports = anagrams;

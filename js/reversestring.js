@@ -17,3 +17,5 @@ function reverse_3(str) {
   debugger;
   return str.split('').reduce((reversed,characters)=>characters + reversed,'');
 }
+
+module.exports = reverse;

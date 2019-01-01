@@ -6,3 +6,5 @@ function capitalize(str) {
   }
   return res.join(' ');
 }
+
+module.exports = capitalize;

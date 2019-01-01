@@ -13,3 +13,5 @@ function palindrome_2(str) {
     return char === str[str.length - i - 1]
   });
 }
+
+module.exports = palindrome;

@@ -22,3 +22,5 @@ function chunk_2(array, size) {
   }
   return chunked;
 }
+
+module.exports = chunk;

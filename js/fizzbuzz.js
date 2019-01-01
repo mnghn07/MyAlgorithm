@@ -12,3 +12,5 @@ function fizzBuzz(n) {
         }
     }
 }
+
+module.exports = fizzbuzz;
